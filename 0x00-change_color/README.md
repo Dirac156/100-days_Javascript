@@ -9,6 +9,6 @@ back to normal when the nouse left the element click me button.
 
 ## Javascript methode used
 
- **getElementById**
- **addEventListener**
- **mouse event**
+### **getElementById**
+### **addEventListener**
+### **mouse event**
