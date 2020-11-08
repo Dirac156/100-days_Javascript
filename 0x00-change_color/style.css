@@ -1,0 +1,24 @@
+h1{
+  color: black;
+}
+#box-change{
+  padding: 250px;
+  border: 1px solid black;
+}
+.button-first {
+  color: white;
+  font-size: 25px;
+  background-color: black;
+  border-radius: 15px 50px;
+  padding: 5px;
+}
+.second_color{
+  background-color: blue;
+}
+.button-change{
+  color: white;
+  font-size: 25px;
+  background-color: maroon;
+  border-radius: 15px 50px;
+  padding: 5px;
+}
