@@ -1,0 +1,35 @@
+h1{
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: inherit;
+}
+button {
+  margin-top: 10px;
+  margin-left: 30%;
+  padding: 10px;
+  border-radius: 7px;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+.quote-box, .div{
+  border : 2px solid black;
+  background-color: maroon;
+  color: white;
+  height: auto;
+  width: 350px;
+}
+
+blockquote{
+  font-size: 30px;
+  font-family: serif;
+  font-weight: bold;
+}
+p{
+  font-size: 16px;
+  font-weight: 0.5;
+  margin-right: auto;
+  margin-left:60%;
+}
