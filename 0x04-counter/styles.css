@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+div {
+    margin-top: 10%;
+}
+
+button {
+    display: block;
+    margin: 0px auto 20px auto;
+}
+
+#number {
+    font-size: 100px;
+}
+
+.display-normal {
+    color: grey;
+}
+
+.display-green {
+    color: green;
+}
+
+.display-red {
+    color: red;
+}
