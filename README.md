@@ -41,13 +41,18 @@ This project is about building a back end code with java script that stores info
 
 ### 0x04-Counter 
 
-#### Description [link]()
+#### Description [link](https://github.com/Dirac156/100-days_Javascript/tree/master/0x04-counter)
 
 This Chanllenge is about building a counter using Javascript with 3 buttons:
 1. One to lower the counter.
 2. One to increase the counter by one
 3. the last button used to reset the counter.
 
+### 0x05-Slider [link]()
+
+#### Descrition 
+
+This project is about creating a slider show of some imgaes.
 
 ## Author
 
